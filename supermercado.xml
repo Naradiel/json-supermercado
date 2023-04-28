@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Supermercados>
+    <Nombre>Hiperdino</Nombre>
+    <Direccion> Av. Tres de Mayo, 7, 38003 Santa Cruz de Tenerife</Direccion>
+    <Geolocalizacion>
+      <latitud number="true">28.4602964</latitud>
+      <longitud number="true">-16.2584745</longitud>
+    </Geolocalizacion>
+    <Horario>
+      <apertura>9:00h</apertura>
+      <cierre>22:00h</cierre>
+    </Horario>
+    <Telefono>922 53 59 52</Telefono>
+    <ListaCompra>
+      <Producto>Queso</Producto>
+      <Nombre>Flor de Guimar queso fresco ahumado</Nombre>
+      <Marca>dasdo</Marca>
+      <Oferta boolean="true">false</Oferta>
+      <periodoVigencia>
+        <inicio>2023-04-27</inicio>
+        <fin>2023-05-31</fin>
+      </periodoVigencia>
+      <Unidades number="true">1</Unidades>
+      <unidadMedida>kilos</unidadMedida>
+      <Precio number="true">14.75</Precio>
+      <Moneda>€</Moneda>
+      <Adquirido boolean="true">true</Adquirido>
+    </ListaCompra>
+    <ListaCompra>
+      <Producto>Cereales</Producto>
+      <Nombre>Cereales Chocapic</Nombre>
+      <Marca>Nestlé</Marca>
+      <Oferta boolean="true">true</Oferta>
+      <periodoVigencia>
+        <inicio>2023-04-20</inicio>
+        <fin>2023-08-20</fin>
+      </periodoVigencia>
+      <Unidades number="true">2</Unidades>
+      <unidadMedida>unidades</unidadMedida>
+      <Precio number="true">1.55</Precio>
+      <Moneda>€</Moneda>
+      <Adquirido boolean="true">false</Adquirido>
+    </ListaCompra>
+    <ListaCompra>
+      <Producto>Refresco</Producto>
+      <Nombre>Clipper refresco de fresa 50cl</Nombre>
+      <Marca>Clipper</Marca>
+      <Oferta boolean="true">false</Oferta>
+      <periodoVigencia null="true"/>
+      <Unidades number="true">2</Unidades>
+      <unidadMedida>unidades</unidadMedida>
+      <Precio number="true">1.25</Precio>
+      <Moneda>€</Moneda>
+      <Adquirido boolean="true">false</Adquirido>
+    </ListaCompra>
+  </Supermercados>
+  <Supermercados>
+    <Nombre>Spar</Nombre>
+    <Direccion> Rambla de Santa Cruz, 114, 38001, Santa Cruz de Tenerife</Direccion>
+    <Geolocalizacion>
+      <latitud number="true">28.465830</latitud>
+      <longitud number="true">-16.253620</longitud>
+    </Geolocalizacion>
+    <Horario>
+      <apertura>8:30</apertura>
+      <cierre>21:30h</cierre>
+    </Horario>
+    <Telefono>822 90 99 58</Telefono>
+    <ListaCompra>
+      <Producto>Leche</Producto>
+      <Nombre>Leche desnatada sin lactosa</Nombre>
+      <Marca>Spar</Marca>
+      <Oferta boolean="true">false</Oferta>
+      <periodoVigencia>
+        <inicio>2023-04-21</inicio>
+        <fin>2023-05-21</fin>
+      </periodoVigencia>
+      <Unidades number="true">6</Unidades>
+      <unidadMedida>litros</unidadMedida>
+      <Precio number="true">0.95</Precio>
+      <Moneda>€</Moneda>
+      <Adquirido boolean="true">true</Adquirido>
+    </ListaCompra>
+    <ListaCompra>
+      <Producto>Merluza</Producto>
+      <Nombre>Filetes de merluza sin piel congelado 400gr</Nombre>
+      <Marca>Pescanova</Marca>
+      <Oferta boolean="true">true</Oferta>
+      <periodoVigencia>
+        <inicio>2023-04-28</inicio>
+        <fin>2025-04-28</fin>
+      </periodoVigencia>
+      <Unidades number="true">2</Unidades>
+      <unidadMedida>unidades</unidadMedida>
+      <Precio number="true">4.65</Precio>
+      <Moneda>€</Moneda>
+      <Adquirido boolean="true">true</Adquirido>
+    </ListaCompra>
+    <ListaCompra>
+      <Producto>Salami</Producto>
+      <Nombre>Salami</Nombre>
+      <Marca>Argal</Marca>
+      <Oferta boolean="true">false</Oferta>
+      <periodoVigencia>
+        <inicio>2023-04-10</inicio>
+        <fin>2023-06-10</fin>
+      </periodoVigencia>
+      <Unidades number="true">1</Unidades>
+      <unidadMedida>kilos</unidadMedida>
+      <Precio number="true">9.95</Precio>
+      <Moneda>€</Moneda>
+      <Adquirido boolean="true">false</Adquirido>
+    </ListaCompra>
+  </Supermercados>
+  <Supermercados>
+    <Nombre>Carrefour</Nombre>
+    <Direccion> Autopista del Sur, km. 5,9. Urbanización Añaza, 38111 Santa Cruz de Tenerife</Direccion>
+    <Geolocalizacion>
+      <latitud number="true">28.441408</latitud>
+      <longitud number="true">-16.279418</longitud>
+    </Geolocalizacion>
+    <Horario>
+      <apertura>9:00h</apertura>
+      <cierre>22:00h</cierre>
+    </Horario>
+    <Telefono>914 908 900</Telefono>
+    <ListaCompra>
+      <Producto>Agua</Producto>
+      <Nombre>Agua mineral Fonteide natural 1,5 l.</Nombre>
+      <Marca>Fonteide</Marca>
+      <Oferta boolean="true">false</Oferta>
+      <periodoVigencia null="true"/>
+      <Unidades number="true">4</Unidades>
+      <unidadMedida>unidades</unidadMedida>
+      <Precio number="true">0.54</Precio>
+      <Moneda>€</Moneda>
+      <Adquirido boolean="true">false</Adquirido>
+    </ListaCompra>
+    <ListaCompra>
+      <Producto>Detergente</Producto>
+      <Nombre>Detergente líquido ropa oscura Norit 40 lavados.</Nombre>
+      <Marca>Norit</Marca>
+      <Oferta boolean="true">false</Oferta>
+      <periodoVigencia null="true"/>
+      <Unidades number="true">1</Unidades>
+      <unidadMedida>unidades</unidadMedida>
+      <Precio number="true">7.95</Precio>
+      <Moneda>€</Moneda>
+      <Adquirido boolean="true">true</Adquirido>
+    </ListaCompra>
+    <ListaCompra>
+      <Producto>Cebolla</Producto>
+      <Nombre>Cebolla Carrefour</Nombre>
+      <Marca>Carrefour</Marca>
+      <Oferta boolean="true">true</Oferta>
+      <periodoVigencia>
+        <inicio>2023-04-28</inicio>
+        <fin>2023-05-9</fin>
+      </periodoVigencia>
+      <Unidades number="true">1</Unidades>
+      <unidadMedida>kilos</unidadMedida>
+      <Precio number="true">2.09</Precio>
+      <Moneda>€</Moneda>
+      <Adquirido boolean="true">true</Adquirido>
+    </ListaCompra>
+  </Supermercados>
+</root>
