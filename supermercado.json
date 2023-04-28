@@ -1,0 +1,175 @@
+{
+  "Supermercados": [
+    {
+      "Nombre": "Hiperdino",
+      "Direccion": " Av. Tres de Mayo, 7, 38003 Santa Cruz de Tenerife",
+      "Geolocalizacion": {
+        "latitud": 28.4602964,
+        "longitud": -16.2584745
+      },
+      "Horario": {
+        "apertura": "9:00h",
+        "cierre": "22:00h"
+      },
+      "Telefono": "922 53 59 52",
+      "ListaCompra": [
+        {
+          "Producto": "Queso",
+          "Nombre": "Flor de Guimar queso fresco ahumado",
+          "Marca": "dasdo",
+          "Oferta": false,
+          "periodoVigencia": {
+            "inicio": "2023-04-27",
+            "fin": "2023-05-31"
+          },
+          "Unidades": 1,
+          "unidadMedida": "kilos",
+          "Precio": 14.75,
+          "Moneda": "€",
+          "Adquirido": true
+        },
+        {
+          "Producto": "Cereales",
+          "Nombre": "Cereales Chocapic",
+          "Marca": "Nestlé",
+          "Oferta": true,
+          "periodoVigencia": {
+            "inicio": "2023-04-20",
+            "fin": "2023-08-20"
+          },
+          "Unidades": 2,
+          "unidadMedida": "unidades",
+          "Precio": 1.55,
+          "Moneda": "€",
+          "Adquirido": false
+        },
+        {
+          "Producto": "Refresco",
+          "Nombre": "Clipper refresco de fresa 50cl",
+          "Marca": "Clipper",
+          "Oferta": false,
+          "periodoVigencia": null,
+          "Unidades": 2,
+          "unidadMedida": "unidades",
+          "Precio": 1.25,
+          "Moneda": "€",
+          "Adquirido": false
+        }
+      ]
+    },
+    {
+      "Nombre": "Spar",
+      "Direccion": " Rambla de Santa Cruz, 114, 38001, Santa Cruz de Tenerife",
+      "Geolocalizacion": {
+        "latitud": 28.465830,
+        "longitud": -16.253620
+      },
+      "Horario": {
+        "apertura": "8:30",
+        "cierre": "21:30h"
+      },
+      "Telefono": "822 90 99 58",
+      "ListaCompra": [
+        {
+          "Producto": "Leche",
+          "Nombre": "Leche desnatada sin lactosa",
+          "Marca": "Spar",
+          "Oferta": false,
+          "periodoVigencia": {
+            "inicio": "2023-04-21",
+            "fin": "2023-05-21"
+          },
+          "Unidades": 6,
+          "unidadMedida": "litros",
+          "Precio": 0.95,
+          "Moneda": "€",
+          "Adquirido": true
+        },
+        {
+          "Producto": "Merluza",
+          "Nombre": "Filetes de merluza sin piel congelado 400gr",
+          "Marca": "Pescanova",
+          "Oferta": true,
+          "periodoVigencia": {
+            "inicio": "2023-04-28",
+            "fin": "2025-04-28"
+          },
+          "Unidades": 2,
+          "unidadMedida": "unidades",
+          "Precio": 4.65,
+          "Moneda": "€",
+          "Adquirido": true
+        },
+        {
+          "Producto": "Salami",
+          "Nombre": "Salami",
+          "Marca": "Argal",
+          "Oferta": false,
+          "periodoVigencia": {
+            "inicio": "2023-04-10",
+            "fin": "2023-06-10"
+          },
+          "Unidades": 1,
+          "unidadMedida": "kilos",
+          "Precio": 9.95,
+          "Moneda": "€",
+          "Adquirido": false
+        }
+      ]
+    },
+    {
+      "Nombre": "Carrefour",
+      "Direccion": " Autopista del Sur, km. 5,9. Urbanización Añaza, 38111 Santa Cruz de Tenerife",
+      "Geolocalizacion": {
+        "latitud": 28.441408,
+        "longitud": -16.279418
+      },
+      "Horario": {
+        "apertura": "9:00h",
+        "cierre": "22:00h"
+      },
+      "Telefono": "914 908 900",
+      "ListaCompra": [
+        {
+          "Producto": "Agua",
+          "Nombre": "Agua mineral Fonteide natural 1,5 l.",
+          "Marca": "Fonteide",
+          "Oferta": false,
+          "periodoVigencia": null,
+          "Unidades": 4,
+          "unidadMedida": "unidades",
+          "Precio": 0.54,
+          "Moneda": "€",
+          "Adquirido": false
+        },
+        {
+          "Producto": "Detergente",
+          "Nombre": "Detergente líquido ropa oscura Norit 40 lavados.",
+          "Marca": "Norit",
+          "Oferta": false,
+          "periodoVigencia": null,
+          "Unidades": 1,
+          "unidadMedida": "unidades",
+          "Precio": 7.95,
+          "Moneda": "€",
+          "Adquirido": true
+        },
+        {
+          "Producto": "Cebolla",
+          "Nombre": "Cebolla Carrefour",
+          "Marca": "Carrefour",
+          "Oferta": true,
+          "periodoVigencia": {
+            "inicio": "2023-04-28",
+            "fin": "2023-05-9"
+          },
+          "Unidades": 1,
+          "unidadMedida": "kilos",
+          "Precio": 2.09,
+          "Moneda": "€",
+          "Adquirido": true
+        }
+      ]
+    }
+  ]
+}
